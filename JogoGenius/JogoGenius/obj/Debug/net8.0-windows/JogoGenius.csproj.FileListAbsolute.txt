@@ -1,0 +1,32 @@
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.exe
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.deps.json
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.runtimeconfig.json
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.dll
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.pdb
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.Form1.resources
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.csproj.GenerateResource.cache
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.AssemblyInfoInputs.cache
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.AssemblyInfo.cs
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.csproj.CoreCompileInputs.cache
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.dll
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\refint\JogoGenius.dll
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.pdb
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.genruntimeconfig.cache
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\ref\JogoGenius.dll
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.exe
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.deps.json
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.runtimeconfig.json
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.dll
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.pdb
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.Form1.resources
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.csproj.GenerateResource.cache
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.AssemblyInfoInputs.cache
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.AssemblyInfo.cs
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.csproj.CoreCompileInputs.cache
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.dll
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\refint\JogoGenius.dll
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.pdb
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.genruntimeconfig.cache
+C:\Users\Raiane Pelissoni\OneDrive\Documentos\fazendo programa\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\ref\JogoGenius.dll
